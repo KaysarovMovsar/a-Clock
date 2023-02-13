@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: black; 
+}
+.container{
+    font-family: "Arial", Helvetica, sans-serif;
+    padding: 30px;
+    color: #fff;
+    font-weight: bold;
+    border: 5px solid rgb(103, 32, 218);
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    font-size: 150px;
+    white-space: nowrap;
+    border-radius: 80px;
+    width: 1100px;
+    height: 180px;
+    background-color: rgb(221, 33, 33);
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+}
+
+.wrapper img{
+  width: 100%;
+}
+span:nth-last-child(1) {
+color: green;
+}
+
+
+span:nth-last-child(5) {
+ color: yellowgreen;
+ }
+
+ span:nth-last-child(4) {
+  color: blueviolet
+  }
+
+  span:nth-last-child(3) {
+    color: darkorange
+    }
+
+    span:nth-last-child(2) {
+      color: burlywood
+      }
+
+      span:nth-last-child(1) {
+        color:gray;
+        }
